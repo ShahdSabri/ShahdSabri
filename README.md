@@ -1,6 +1,6 @@
 - Hey, I’m Shahd Sabri
 -  I’m interested in AI, photonics, and quantum technology.
--  I’m currently completing Harvard's CS50, and learning languages including C, Python, SQL, and JavaScript plus CSS and HTML.
+-  I have experience with Java and am completing Harvard's CS50, and learning languages including C, Python, SQL, and JavaScript plus CSS and HTML.
 -  I’m looking to collaborate on solutions to real world problems and growing my skills.
 -  contact me: shahdsabri2006@gmail.com
 
